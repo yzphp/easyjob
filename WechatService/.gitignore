@@ -1,9 +1,0 @@
-/vendor/
-.buildpath
-.project
-/.settings/
-.idea
-.php_cs.cache
-.DS_Store
-composer.lock
-/*.php
