@@ -1,6 +1,6 @@
 <?php
 
-namespace easyjob\WechatEcommerce;
+namespace WeProviderBase;
 
 class Cert
 {

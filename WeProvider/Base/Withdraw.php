@@ -1,6 +1,6 @@
 <?php
 
-namespace easyjob\WechatEcommerce;
+namespace WeProviderBase;
 
 //商户提现
 class Withdraw

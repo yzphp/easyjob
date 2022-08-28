@@ -1,6 +1,6 @@
 <?php
 
-namespace easyjob\WechatEcommerce;
+namespace WeProviderBase;
 
 //查询余额 账单下载
 class Bill

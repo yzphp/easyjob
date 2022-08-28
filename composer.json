@@ -1,0 +1,25 @@
+{
+    "name": "iwangr/we-provider",
+    "type": "library",
+    "require": {
+        "php": "yes"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "微信在线",
+            "email": "506232687@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+	"autoload": {
+    "classmap": [
+      "We.php"
+    ],
+    "psr-4": {
+      "WeProviderBase\\": "WeProvider\\Base",
+	  "WeProviderEcommerce\\": "WeProvider\\Ecommerce",
+      
+    }
+  }
+}

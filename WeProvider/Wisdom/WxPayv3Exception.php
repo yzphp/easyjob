@@ -1,6 +1,6 @@
 <?php
 
-namespace easyjob\WechatEcommerce;
+namespace WeProviderWisdom;
 
 /**
  * 微信支付API异常类

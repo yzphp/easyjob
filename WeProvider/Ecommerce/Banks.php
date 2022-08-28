@@ -6,7 +6,7 @@
  * Time: 下午 12:22
  */
 
-namespace easyjob\WechatEcommerce;
+namespace WeProviderEcommerce;
 
 //银行组件
 class Banks

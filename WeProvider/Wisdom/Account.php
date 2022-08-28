@@ -1,11 +1,11 @@
 <?php
 
-namespace easyjob\WechatEcommerce;
+namespace WeProviderWisdom;
 
 /**
  * 分账功能
  * Class Account
- * @package WechatEcommerce
+ * @package WeProviderEcommerce
  */
 class Account
 {

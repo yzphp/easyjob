@@ -1,6 +1,6 @@
 <?php
 
-namespace easyjob\WechatEcommerce;
+namespace WeProviderBase;
 
 //上传图片，上传物理地址返回 微信的media_id
 class Uploads
